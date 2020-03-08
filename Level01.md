@@ -20,6 +20,7 @@ Using the `cat README` command, you can view the level instructions.
 So, in this readme file there are instructions to move to a location called levels which is in the root.
 
 cd to the root
+
 ![](https://user-images.githubusercontent.com/31987272/76157434-cdf50c00-612e-11ea-943f-e7828c89ac3a.PNG)
 
 
